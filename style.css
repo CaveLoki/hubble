@@ -306,8 +306,8 @@ footer{
    padding-left: 20px;
 }
 .social a {
-   width: 20px;
-   height: 20px;
+   width: 30px;
+   height: 30px;
    border: thin solid white;
    display: inline-flex;
    align-items: center;
@@ -316,7 +316,7 @@ footer{
    border-radius: 50%;
    color: white;
    text-decoration: none;
-   font-size: 12px;
+   font-size: 18px;
    margin-right: 5px;
    margin-bottom: 160px;
 
